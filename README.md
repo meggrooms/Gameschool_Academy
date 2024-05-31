@@ -9,7 +9,8 @@ Gameschool Academy has evolved from a standard mommy blog to a full website cont
 
 ## HTML5 Coding Examples
 <br> 
-I taught myself HTML more than 25 years ago and have worked hard to keep my coding up-to-date. I now use a mixture of HTML5 and customizable pre-written AI coding included with my website packages.
+I taught myself HTML over 25 years ago and have worked hard to keep my coding up-to-date. I primarily use a mixture of HTML5 & CSS to create and design websites.
+
 
 
 ## WooCommerce
