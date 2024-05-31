@@ -10,8 +10,14 @@ Gameschool Academy has evolved from a standard mommy blog to a full website cont
 ## HTML5 Coding Examples
 <br> 
 I taught myself HTML over 25 years ago and have worked hard to keep my coding up-to-date. I primarily use a mixture of HTML5 & CSS to create and design websites.
+<br>
+<a href="https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.07.58%20PM.png">
+<img src=https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.07.58%20PM.png?raw=true" width=400 align="left">
 
 
+
+<br>
+<br>
 
 ## WooCommerce
 <br>
